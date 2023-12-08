@@ -12,8 +12,17 @@ in our app we plan to use this in the news section
 
 ![](image.png)
 
-The web design could be improved by making it dynamic and flexible with the diffrent article images sizes (and the images should be better treadted to go with the design and don't lose their resolution)
+
  
+
+ These scripts can be automated to fetch new news every **"n" period**. or event transormfed to draw data in **real time**.
+
+
+
+
 ![](vid_to_gif.gif)
 
-These scripts can be automated to fetch new news every **"n" period**. or event transormfed to draw data in **real time**.
+
+
+
+The web design could be improved by making it dynamic and flexible with the diffrent article images sizes (and the images should be better treadted to go with the design and don't lose their resolution)
